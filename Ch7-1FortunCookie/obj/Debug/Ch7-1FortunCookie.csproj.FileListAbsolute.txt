@@ -1,0 +1,27 @@
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.exe.config
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.exe
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.pdb
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7_1FortunCookie.FormFortuneCookie.resources
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7_1FortunCookie.Properties.Resources.resources
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.exe
+C:\Users\Angie Shelton\Desktop\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.pdb
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.exe.config
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.exe
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.pdb
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7_1FortunCookie.FormFortuneCookie.resources
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7_1FortunCookie.Properties.Resources.resources
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.exe
+C:\Users\Angie Shelton\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.pdb
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.exe.config
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.exe
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\bin\Debug\Ch7-1FortunCookie.pdb
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.csprojAssemblyReference.cache
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7_1FortunCookie.FormFortuneCookie.resources
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7_1FortunCookie.Properties.Resources.resources
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.csproj.GenerateResource.cache
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.exe
+C:\Users\Angie Shelton\OneDrive\Desktop\Ch 7 Labs\Ch7-1FortunCookie\Ch7-1FortunCookie\obj\Debug\Ch7-1FortunCookie.pdb
